@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, Sartaj Prattoy here</h1>
 <h3 align="center">"✨ An Enthusiastic Fourth-Year Computer Science & Engineering Student at BRAC University | 🚀 Full Stack Web Developer | 🌟 Software Engineer | #CodeWizard #InnovationLover #WebDevExplorer"</h3>
 <img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
