@@ -134,6 +134,16 @@
 
 ---
 
+## 🎓 Professional Background
+
+**Education:** Computer Science & Engineering Graduate, BRAC University
+**Previous Institution:** Notre Dame College Dhaka
+
+**Professional Philosophy:**
+Committed to writing clean, efficient, and maintainable code that scales. I believe in continuous learning, collaborative development, and leveraging technology to create meaningful impact. Every project is an opportunity to push boundaries and deliver exceptional results.
+
+---
+
 ## 🚀 Let's Collaborate
 
 **Available for:**
@@ -142,6 +152,9 @@
 - Machine Learning & AI Solutions
 - Database Optimization & Management
 - Open Source Contributions
+- Technical Leadership & Mentoring
+
+**Current Focus:** Building scalable web applications, exploring AI/ML implementations, and contributing to open-source projects that drive technological innovation.
 
 *Committed to delivering exceptional software solutions that drive business growth and technological advancement.*
 
