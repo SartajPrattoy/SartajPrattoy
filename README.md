@@ -104,6 +104,8 @@
 
 ## 🎯 Professional Focus Areas
 
+<img align="right" alt="deadline approach" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+
 - **🌐 Full-Stack Development:** Building end-to-end web applications with modern frameworks
 - **🤖 Machine Learning & AI:** Developing intelligent systems and data-driven solutions  
 - **📱 Mobile Development:** Creating cross-platform mobile applications
