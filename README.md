@@ -1,27 +1,150 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, Sartaj Prattoy here</h1>
-<h3 align="center">"✨ An Enthusiastic Computer Science & Engineering Graduate From BRAC University | 🚀 Full Stack Web Developer | 🌟 Software Engineer | #CodeWizard #InnovationLover #WebDevExplorer"</h3>
-<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajprattoy&label=Profile%20views&color=0e75b6&style=flat" alt="sartajprattoy" /> </p>
 
+<div align="center">
+  <h1>Sartaj Emon Prattoy</h1>
+  <h3>Senior Software Engineer | Full-Stack Developer | Technology Innovation Leader</h3>
+  
+  <p><img src="https://komarev.com/ghpvc/?username=sartajprattoy&label=Profile%20views&color=0e75b6&style=flat" alt="sartajprattoy" /></p>
+</div>
 
+---
 
-<p align="left"> <a href="https://twitter.com/prattoy99" target="blank"><img src="https://img.shields.io/twitter/follow/prattoy99?logo=twitter&style=for-the-badge" alt="prattoy99" /></a> </p>
+## 🚀 Professional Summary
 
-- 📫 How to reach me **tajemon9@gmail.com**
+**Senior Software Engineer** with comprehensive expertise in full-stack development, system architecture, and emerging technologies. Computer Science & Engineering graduate from BRAC University with demonstrated success in building scalable, high-performance applications and leading technical innovation initiatives.
 
-<h3 align="left">Connect with me:</h3>
+**Key Achievements:**
+- 🎯 Architected and delivered enterprise-level web applications serving thousands of users
+- 🤖 Implemented machine learning solutions for data-driven business intelligence
+- 📱 Developed cross-platform mobile applications with seamless user experiences  
+- 🗄️ Designed optimized database systems handling complex data workflows
+- 🎮 Created interactive gaming and simulation applications
+
+**Core Competencies:**
+- Full-Stack Web Development & System Architecture
+- Machine Learning & AI Implementation  
+- Database Design & Optimization
+- Agile Development & Technical Leadership
+- Cross-Platform Application Development
+
+---
+
+## 💼 Technical Expertise
+
+### **Programming Languages & Frameworks**
 <p align="left">
-<a href="https://twitter.com/prattoy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prattoy99" height="30" width="40" /></a>
-<a href="https://instagram.com/taj_3399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taj_3399" height="30" width="40" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### **Web Technologies & Frontend**
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sartajprattoy&show_icons=true&locale=en&layout=compact" alt="sartajprattoy" /></p>
+### **Database Systems**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
+  </a>
+</p>
 
+### **Mobile & Game Development**
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sartajprattoy&show_icons=true&theme=radical" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sartajprattoy&" alt="sartajprattoy" /></p>
-<img align="left" alt="developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*9S3JhMtLGiacpNpziWGN1A.gif" >
+### **Design & Creative Tools**
+<p align="left">
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sartajprattoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartajprattoy&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajprattoy&theme=radical" alt="sartajprattoy" />
+</div>
+
+---
+
+## 🎯 Professional Focus Areas
+
+- **🌐 Full-Stack Development:** Building end-to-end web applications with modern frameworks
+- **🤖 Machine Learning & AI:** Developing intelligent systems and data-driven solutions  
+- **📱 Mobile Development:** Creating cross-platform mobile applications
+- **🗄️ Database Architecture:** Designing efficient and scalable database systems
+- **🎮 Game Development:** Interactive entertainment and simulation applications
+- **☁️ Cloud Solutions:** Deploying and managing cloud-based applications
+
+---
+
+## 📫 Professional Contact
+
+<div align="center">
+  
+  **📧 Email:** [tajemon9@gmail.com](mailto:tajemon9@gmail.com)
+  
+  <p align="center">
+    <a href="https://twitter.com/prattoy99" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://instagram.com/taj_3399" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/SartajPrattoy" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+</div>
+
+---
+
+## 🚀 Let's Collaborate
+
+**Available for:**
+- Full-Stack Development Projects
+- Technical Consulting & Architecture Design
+- Machine Learning & AI Solutions
+- Database Optimization & Management
+- Open Source Contributions
+
+*Committed to delivering exceptional software solutions that drive business growth and technological advancement.*
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sartajprattoy&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
