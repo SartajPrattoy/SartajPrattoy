@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Career Overview
 
 **Software Engineer** with comprehensive expertise in full-stack development, system architecture, and emerging technologies. Computer Science & Engineering graduate from BRAC University with demonstrated success in building scalable, high-performance applications and leading technical innovation initiatives.
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 🎯 Professional Focus Areas
+## 🎯 Areas of Expertise
 
 <img align="right" alt="deadline approach" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*9S3JhMtLGiacpNpziWGN1A.gif" />
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 📫 Professional Contact
+## 📫 Get in Touch
 
 <div align="center">
   
@@ -136,12 +136,12 @@
 
 ---
 
-## 🎓 Professional Background
+## 🎓 Educational & Career Background
 
 **Education:** Computer Science & Engineering Graduate, BRAC University
 **Previous Institution:** Notre Dame College Dhaka
 
-**Professional Philosophy:**
+**Approach to Work:**
 Committed to writing clean, efficient, and maintainable code that scales. I believe in continuous learning, collaborative development, and leveraging technology to create meaningful impact. Every project is an opportunity to push boundaries and deliver exceptional results.
 
 ---
