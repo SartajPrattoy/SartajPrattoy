@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Sartaj Emon Prattoy</h1>
-  <h3>Senior Software Engineer | Full-Stack Developer | Technology Innovation Leader</h3>
+  <h3>Software Engineer | Full-Stack Developer | Technology Innovation Leader</h3>
   
   <p><img src="https://komarev.com/ghpvc/?username=sartajprattoy&label=Profile%20views&color=0e75b6&style=flat" alt="sartajprattoy" /></p>
 </div>
@@ -11,14 +11,14 @@
 
 ## 🚀 Professional Summary
 
-**Senior Software Engineer** with comprehensive expertise in full-stack development, system architecture, and emerging technologies. Computer Science & Engineering graduate from BRAC University with demonstrated success in building scalable, high-performance applications and leading technical innovation initiatives.
+**Software Engineer** with comprehensive expertise in full-stack development, system architecture, and emerging technologies. Computer Science & Engineering graduate from BRAC University with demonstrated success in building scalable, high-performance applications and leading technical innovation initiatives.
 
 **Key Achievements:**
-- 🎯 Architected and delivered enterprise-level web applications serving thousands of users
-- 🤖 Implemented machine learning solutions for data-driven business intelligence
-- 📱 Developed cross-platform mobile applications with seamless user experiences  
-- 🗄️ Designed optimized database systems handling complex data workflows
-- 🎮 Created interactive gaming and simulation applications
+- 🎯 Built and deployed web applications with focus on performance and user experience
+- 🤖 Developed machine learning projects for data analysis and predictive insights
+- 📱 Created cross-platform mobile applications with intuitive user interfaces
+- 🗄️ Designed database systems with efficient data management and organization
+- 🎮 Built interactive gaming and simulation applications
 
 **Core Competencies:**
 - Full-Stack Web Development & System Architecture
