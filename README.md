@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Sartaj Emon Prattoy</h1>
-  <h3>Software Engineer | Full-Stack Developer | Technology Innovation Leader</h3>
+  <h3>Computer Science | Data Science | AI & Machine Learning</h3>
   
   <p><img src="https://komarev.com/ghpvc/?username=sartajprattoy&label=Profile%20views&color=0e75b6&style=flat" alt="sartajprattoy" /></p>
 </div>
