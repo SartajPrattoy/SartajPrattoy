@@ -102,16 +102,16 @@
 
 ---
 
-## 🎯 Areas of Expertise
 
-<img align="right" alt="deadline approach" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+
+<!-- <img align="right" alt="deadline approach" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*9S3JhMtLGiacpNpziWGN1A.gif" />
 
 - **🌐 Full-Stack Development:** Building end-to-end web applications with modern frameworks
 - **🤖 Machine Learning & AI:** Developing intelligent systems and data-driven solutions  
 - **📱 Mobile Development:** Creating cross-platform mobile applications
 - **🗄️ Database Architecture:** Designing efficient and scalable database systems
 - **🎮 Game Development:** Interactive entertainment and simulation applications
-- **☁️ Cloud Solutions:** Deploying and managing cloud-based applications
+- **☁️ Cloud Solutions:** Deploying and managing cloud-based applications -->
 
 ---
 
@@ -149,9 +149,9 @@ Committed to writing clean, efficient, and maintainable code that scales. I beli
 ## 🚀 Let's Collaborate
 
 **Available for:**
-- Full-Stack Development Projects
-- Technical Consulting & Architecture Design
 - Machine Learning & AI Solutions
+- Technical Consulting & Architecture Design
+- Full-Stack Development Projects
 - Database Optimization & Management
 - Open Source Contributions
 - Technical Leadership & Mentoring
